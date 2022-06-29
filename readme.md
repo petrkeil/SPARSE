@@ -1,16 +1,23 @@
+---
+output: 
+  html_document: 
+    number_sections: yes
+---
 # SPARSE - SPecies AcRoss ScalEs
 
 **Authors since 2021 (at CZU):** Petr Keil, Eva Trávníčková, Kateřina Tschernosterová, Florencia Grattarola
 
-**Authors 2020 (at iDiv):** Petr Keil, Clara Rosse 
+**Authors 2020 (at iDiv):** Petr Keil, Clara Rosse, with support from Jonathan M. Chase
 
-**Email:** pkeil@seznam.cz
+**Email:** keil@fzp.czu.cz
+
+**License:** CC-BY (https://creativecommons.org/about/cclicenses/)
 
 -------
 
 ## Description
 
-**This is SPARSE database, it stores data on species composition of sites in space and through time, where multiple species had been recorded during the surveys.** Thus, SPARSE does *not* contain presence-only point observations such as those stored in e.g. GBIF. Examples of data stored in SPARSE are reserve inventories, point surveys, transects, commercial surveys prior to construction activities, checklists and redlists in administrative units such as counties, states, or countries. SPARSE is currently implemented in **MS Access**, with additional GIS data stored in **ESRI shapefiles**, and with the original raw data provided as .pdf and .xlsx files. 
+Hi. **This is SPARSE database. It stores data on species composition of sites in space and through time, where multiple species had been recorded during the surveys.** Thus, SPARSE does *not* contain presence-only point observations such as those stored in e.g. GBIF. Examples of data stored in SPARSE are reserve inventories, point surveys, transects, commercial surveys prior to construction activities, checklists and redlists in administrative units such as counties, states, or countries. SPARSE is currently implemented in **MS Access**, with additional GIS data stored in **ESRI shapefiles**, and with the original raw data provided as .pdf and .xlsx files. 
 
 
 ### Long-term goals

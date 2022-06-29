@@ -1,0 +1,125 @@
+dataset,yearPublished,format,language,type,district,isProtectedArea,done,note
+"Bárta, Z., 1986-87: Avifauna zámeckého parku v Krásném dvore (okr. Louny) v hnízdním období. Sborník Okresního muzea v Moste. Rada prírodovedná 8-9.",1986,literature,Czech,scientific publication,Ústecký,TRUE,TRUE,pdf-scan
+"Bejcek, V. & Tyrner, P., 1980: Primary succession and species diversity of avian communities on spoil banks after surface mining of lignite in the Most basin (north-western Bohemia). Folia Zoologica 29(1): 67-77.",1980,literature,English,scientific publication,Ústecký,FALSE,TRUE,pdf-scan
+"Berec, M., 1993: Hnízdní spolecenstva ptáku mestského parku ve Vsetíne. Zpravodaj Okresního vlastivedného muzea ve Vsetíne 1993: 42-45.",1993,literature,Czech,scientific publication,Zlínský,FALSE,TRUE,pdf-scan
+"Berec, M.& Pavelka, J., 1993: Avifauna na území Vsetínské vodárny. Zpravodaj Okresního vlastivedného muzea ve Vsetíne 1993: 50-52.",1993,literature,Czech,scientific publication,Zlínský,FALSE,TRUE,pdf-scan
+"Bureš, S. & Maton, K., 1984-85: Ptací složka segmentu skupiny typu geobiocénu ulmifraxinenta populi v navrhované CHKO Pomoraví. Sylvia 23-24: 37-46.",1984,literature,Czech,scientific publication,Olomoucký,TRUE,TRUE,pdf-scan
+"BÜRGER P., KLOUBEC B. (1991) Ornitologický inventarizacní pruzkum v NPR Žofínský prales. CÚOP Ceské Budejovice, 1991",1991,AOPK-data,Czech,inventory research,Jihoceský,TRUE,TRUE,pdf-scan
+"Bürger, P. & Kloubec, B., 1996: Hnízdní avifauna bukových porostu prírodní rezervace Libochovka a vrchu Hradce. Sbor.Jihoces.Muz. V Ces. Budejovicích, Prírodní vedy 36: 73-84.",1996,literature,Czech,scientific publication,Jihoceský,TRUE,TRUE,pdf-scan
+"Francová, P., 1990: Sezonní zmeny avifauny v údolí Zlatého potoka v Železných horách. Panurus 2: 41-49.",1990,literature,Czech,scientific publication,Pardubický,TRUE,TRUE,pdf-scan
+"Hanák, F.,1996: Hnízdní ornitocenozy zámeckého parku v Budišove u Trebíce. Zprávy MOS 54: 6-21",1996,literature,Czech,scientific publication,Vysocina,FALSE,TRUE,pdf-scan
+"Hlavác, V.& Hríbek M., 1985: Kvantitativní a kvalitativní složení avifauny lokality ""Úvalenské louky"" u Opavy. Cas.Slez.Muz.Opava (A), 34: 257-268.",1985,literature,Czech,scientific publication,Moravskoslezký,TRUE,TRUE,pdf-scan
+"Honza, M., 1992: Quantitative analysis of a nesting ird community in a park at Jablunkov. Folia Zool. Brno, 41 (1): 29-44.",1992,literature,English,scientific publication,Moravskoslezký,FALSE,TRUE,pdf-scan
+"Burger&Kloubec,1991-Invent.pruz.Žofín-mapy.pdf",1991,AOPK-data,Czech,inventory research,Jihoceský,TRUE,TRUE,scan-map
+"Burger&Kloubec,1991-Invent.pruz.Žofín.pdf",1991,AOPK-data,Czech,inventory research,Jihoceský,TRUE,TRUE,scan
+Burger&Kloubec-Žofínský prales.csv,1991,AOPK-data,Czech,list of species,Jihoceský,TRUE,TRUE,csv
+"Jansová, 1991-Na Vanovicích-Ceský kras.pdf",1991,AOPK-data,Czech,inventory research,Stredoceský,TRUE,FALSE,pdf-scan
+"Vlcek,1977-Vertebr.Slanisko.pdf",1977,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+"Paclík et al., 2003-Bohdanecský rybník-avifauna.pdf",2003,literature,Czech,scientific publication,Pardubický,TRUE,FALSE,pdf
+"Hudec, K., 1975: The bird Synusia of the ""Kobylské jezero"" Reed Swamp (Southern Moravia) During the Breeding Season. Zoologické listy 24 (1): 65-80.",1975,literature,English,scientific publication,Jihomoravský,FALSE,FALSE,pdf-scan
+"Sofron et al., 1978-Starý rybník.pdf",1978,AOPK-data,Czech,inventory research,Plzenský,TRUE,FALSE,pdf-scan
+"Kocvara,2005-ornit.Jeseníky-tabulky.xls",2005,AOPK-data,Czech,list of species,Olomoucký,TRUE,FALSE,xls
+"Ševcík,1994-avifaunaOstrava-Poruba.pdf",1994,literature,Czech,scientific publication,Moravskoslezký,FALSE,FALSE,pdf-scan
+"Volf, 2019-rybník Motovidlo-IP.pdf",2019,AOPK-data,Czech,inventory research,Jihoceský,TRUE,FALSE,pdf
+"Repa, 2018-Tachovská brázda-zmeny.pdf",2018,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,"pdf, cf. Repa, 1989 & Repa, 1981"
+"Cerný&Šebela, 2018-zmeny spol.ptáku-parkBrno.pdf",2018,literature,Czech,scientific publication,Jihomoravský,FALSE,FALSE,pdf
+"Poprach et al.,2014-spol.ptáku-Chomutovské jezero.pdf",2014,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Šebestian, 2008-Blanský les-IP.csv",2008,AOPK-data,Czech,list of species,Jihoceský,TRUE,FALSE,csv
+"Vlcek,1983-Vertebr.Rac.pdf",1983,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+SOFRON J.et al.1978-invent.pruz.1976-1978 Sedlec-rybníky.xlsx,1978,AOPK-data,Czech,list of species,Plzenský,TRUE,FALSE,xlsx
+"Repa, 2014-synuzie-vesnice Tachovska.pdf",2014,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf
+"Šmaha,1978-avif.Ces.stredohorí.pdf",1978,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+Repa2016-ptactvoCHKO Slavk.les.pdf,2016,literature,Czech,scientific publication,Karlovarský,FALSE,FALSE,pdf
+"Klimeš, Z., 1994: Ptací spolecenstva vybraných zámeckých parku v jihozápadních Cechách. Sylvia 30: 22-31.",1994,literature,Czech,scientific publication,Jihoceský,FALSE,FALSE,pdf-scan
+"Kocvara,2005-ornit.Jeseníky.pdf",2005,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,pdf
+"Kocvara et al.,2006-ornit.Jeseníky.pdf",2006,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,"pdf, without tables"
+"Kocvara,2005-ornit.Jeseníky2.pdf",2005,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,pdf
+"Bárta, 2000-PR Mokradlo-IP.csv",2000,AOPK-data,Czech,list of species,Vysocina,TRUE,FALSE,csv
+"Repa, 2015-synuzie-hájky-Tachovská brázda.pdf",2015,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf
+"Šmaha,1983-Avifauna-Krivoklátsko.pdf",1983,literature,Czech,scientific publication,Stredoceský,TRUE,FALSE,pdf-scan
+Tis-Svaz(1976) IP SPR Kvetnice.csv,1976,AOPK-data,Czech,list of species,Jihomoravský,TRUE,FALSE,csv
+"Kocvara et al.,2007-ornit.Jeseníky.pdf",2006,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,"pdf, without tables"
+"Repa,1989-ptavctvo lesu-Tachov.brázda.pdf",1989,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,"pdf, cf. Repa, 2018!"
+"Šebestian, 2008-Blanský les-IP.pdf",2008,AOPK-data,Czech,inventory research,Jihoceský,TRUE,FALSE,pdf-scan
+"Kloubec&Klimeš,1995-ptactvoVodnanska-tabulky.pdf",1995,literature,Czech,scientific publication,Jihoceský,FALSE,FALSE,pdf-scan
+"Poprach&Vrbková,2014-monitoring-transekty-Litovel.Pomoraví.pdf",2014,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Doupal&Hajný,2007-spol.ptáku-reka Moravice-Jeseníky.pdf",2007,literature,Czech,scientific publication,Olomoucký,FALSE,FALSE,pdf
+"ROS,2016-pruzkum-ptáci-Brdy.pdf",2016,literature,Czech,inventory research,"Plzenský, Stredoceský",TRUE,FALSE,"pdf, without tables"
+KUNSTMULLER I. (2004) IP ornitofauny NPP Jankovský potok.csv,2004,AOPK-data,Czech,list of species,Vysocina,TRUE,FALSE,csv
+"Kocvara,2004-ornit.Jeseníky-tabulky.xls",2004,AOPK-data,Czech,list of species,Olomoucký,TRUE,FALSE,xls
+"Ševcíková&Tošenovský,2014-ptáciOlomouc.hradu.pdf",2014,literature,Czech,scientific publication,Olomoucký,FALSE,FALSE,pdf
+Tis-Svaz(1976) IP SPR Kvetnice.pdf,1976,AOPK-data,Czech,inventory research,Jihomoravský,TRUE,FALSE,pdf-scan
+"Štastný et al.,1987-ptáci-KrušnéHory.pdf",1987,literature,Czech,scientific publication,Ústecký,FALSE,FALSE,pdf-scan
+"Repa, 2017-synuzie-Tachov.pdf",2017,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf
+Lemberk1989-srovnání ornitocenoz-Krkonoše.pdf,1989,literature,Czech,scientific publication,Liberecký,TRUE,FALSE,pdf-scan
+"Bárta, 2000-PR Mokradlo-IP.pdf",2000,AOPK-data,Czech,inventory research,Vysocina,TRUE,FALSE,pdf-scan
+"Dušek, 2004-Libický luh-IP.csv",2004,AOPK-data,Czech,list of species,Stredoceský,TRUE,FALSE,csv
+KUNSTMULLER I. (2004) IP ornitofauny NPP Jankovský potok.doc,2004,AOPK-data,Czech,inventory research,Vysocina,TRUE,FALSE,doc
+"Štastný, 1978-ptáci-Opatovický rybník.pdf",1978,literature,Czech,scientific publication,Jihoceský,FALSE,FALSE,pdf-scan
+"Kocvara,2004-ornit.Jeseníky.pdf",2004,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,pdf
+"Rybár,1975-vertebr.Orlické hory.pdf",1975,literature,Czech,inventory research,Královéhradecký,TRUE,FALSE,"pdf, without tables"
+"Fisher&Vlach,2014-Vertebr.-Šumava.pdf",2014,literature,Czech,inventory research,Jihoceský,TRUE,FALSE,"pdf, without tables in csv"
+"Lemberk,1994-Vertebr-Stremošická strán.pdf",1994,literature,Czech,scientific publication,Pardubický,TRUE,FALSE,pdf-scan
+"Vlcek,1973-Vertebr.Luž.hory.pdf",1973,literature,Czech,scientific publication,Liberecký,TRUE,FALSE,pdf-scan
+vate_pisky.zip,2004,AOPK-data,Czech,"list of species, inventory research",Jihomoravský,TRUE,FALSE,several documents
+"Flousek et al.,1994-ornit.Krkonoše.pdf",1994,literature,Czech,inventory research,"Liberecký, Královéhradecký",TRUE,FALSE,"pdf-scan, atlas data?"
+"Rybár,1976-vertebr.Orlické hory.pdf",1976,literature,Czech,inventory research,Královéhradecký,TRUE,FALSE,"pdf, without tables"
+"Dušek, 2004-Libický luh-IP.pdf",2004,AOPK-data,Czech,inventory research,Stredoceský,TRUE,FALSE,pdf
+KOVÁROVÁ J. (1984) Státní prírodní reservace Šerák.pdf,1984,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,pdf-scan
+"Lemberk,1996-Vertebr.Maštale.pdf",1996,literature,Czech,scientific publication,Pardubický,TRUE,FALSE,pdf-scan
+"Vlcek,1973-vertebr.CesStredoh.pdf",1973,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+"Volf, 2019-rybník Motovidlo-IP.csv",2019,AOPK-data,Czech,list of species,Jihoceský,TRUE,FALSE,csv
+KRENEK D. (2006) IP PR Velký Polom..csv,2006,AOPK-data,Czech,list of species,Moravskoslezký,TRUE,FALSE,csv
+"Lemberk&Fejfar,1995-vertebr.KusáHora.pdf",1995,literature,Czech,scientific publication,Pardubický,TRUE,FALSE,pdf-scan
+KOVÁROVÁ J. (1984) Státní prírodní reservace Šerák.csv,1984,AOPK-data,Czech,inventory research,Olomoucký,TRUE,FALSE,csv
+"Hanák, 2006-ptáci-zámecké parky.pdf",2006,literature,Czech,scientific publication,Olomoucký,FALSE,FALSE,pdf-scan
+"Rybár,1976-vertebr.Orlické hory2.pdf",1976,literature,Czech,inventory research,Královéhradecký,TRUE,FALSE,"pdf, without tables"
+KRENEK D. (2006) IP PR Velký Polom..pdf,2006,AOPK-data,Czech,inventory research,Moravskoslezký,TRUE,FALSE,pdf-scan
+"Jansová, 1991-Na Vanovicích-Ceský kras.csv",1991,AOPK-data,Czech,list of species,Stredoceský,TRUE,FALSE,csv
+"Vlcek,1976-Vertebr.-Lovoš.pdf",1976,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+"Krenek D.,2006-IP Cernavina.csv",2006,AOPK-data,Czech,list of species,Moravskoslezký,TRUE,FALSE,csv
+"Hromádko,1998-ptáci-Orlické hory.pdf",1998,literature,Czech,scientific publication,Královéhradecký,TRUE,FALSE,"pdf-scan, without tables"
+"Ružicka,2010-Aves-Žel.hory.pdf",2010,literature,Czech,scientific publication,"Pardubický, Vysocina",TRUE,FALSE,pdf
+"Vlcek,1976-vertebr.CeskéStredoh.pdf",1976,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+PECL K.1975-invent.ornito.pruz.SPR Režabinec u Ražic.pdf,1975,AOPK-data,Czech,inventory research,Jihoceský,TRUE,FALSE,pdf-scan
+"Lemberk&Ružicka,1996-ornitopruzkum-Svratka.pdf",1996,literature,Czech,scientific publication,Vysocina,TRUE,FALSE,pdf-scan
+PECL K.1975-invent.ornito.pruz.SPR Režabinec u Ražic.csv,1975,AOPK-data,Czech,inventory research,Jihoceský,TRUE,FALSE,csv
+Palicka et Kopec 1993-Smradlavý u Karolinky (in Zpravodaj OVM Vsetín),1993,literature,Czech,scientific publication,Zlínský,TRUE,FALSE,pdf-scan
+"Kloubec,1996-Aves-Šumava.pdf",1996,literature,Czech,inventory research,"Plzenský, Jihoceský",TRUE,FALSE,"pdf-scan, without tables in csv"
+"Ružicka,2020-ptáci-Bohdanec.ryb..pdf",2020,literature,Czech,scientific publication,Pardubický,TRUE,FALSE,pdf
+"Krenek D.,2006-IP Cernavina.pdf",2006,AOPK-data,Czech,inventory research,Moravskoslezký,TRUE,FALSE,pdf-scan
+"Spom,2006-Vertebr.-Žel.hory.pdf",2006,literature,Czech,inventory research,"Pardubický, Vysocina",TRUE,FALSE,"pdf-scan, without tables"
+"Pavelka,1988-ptáci-parkOstrava.pdf",1988,literature,Czech,scientific publication,Moravskoslezký,FALSE,FALSE,pdf-scan
+"Klíma,1959-Boubín.pdf",1959,literature,Czech,scientific publication,Jihoceský,TRUE,FALSE,pdf-scan
+MACHÁCEK P. (2005) NPR Lednické rybníky a NPP Pastvisko.csv,2005,AOPK-data,Czech,list of species,Jihomoravský,TRUE,FALSE,csv
+"Pavelka,Berec,1993-Vachalka,Vsetín.vodárna.pdf",1993,literature,Czech,scientific publication,Zlínský,TRUE,FALSE,pdf-scan
+"Spom,2006-Vertebr.-Žel.hory2.pdf",2006,literature,Czech,inventory research,"Pardubický, Vysocina",TRUE,FALSE,"pdf-scan, without tables"
+"Kornan,2011-birds-MoravaRiver.pdf",2011,literature,English,scientific publication,SLOVENSKO (Morava river),TRUE,FALSE,pdf
+"Machácek,1986-Lednické ryb.pdf",1986,AOPK-data,Czech,inventory research,Jihomoravský,TRUE,FALSE,"pdf-scan, without tables in csv"
+"Kucera,1998-Aves-Šumava.pdf",1998,literature,Czech,scientific publication,Plzenský,TRUE,FALSE,pdf-scan
+"Stritesky&Krist,2004-ptactvoPpVelkýKosír.pdf",2004,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Machácek,1997-Lednické ryb&pastvisko.pdf",1997,AOPK-data,Czech,inventory research,Jihomoravský,TRUE,FALSE,"pdf-scan, without tables in csv"
+"Pelc,1989-ptáci-bucina Rakousy.pdf",1989,literature,Czech,scientific publication,Liberecký,FALSE,FALSE,pdf-scan
+"Machar, 2007-ornitocenozy Plané Loucky.pdf",2007,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Pešková,1990-Pruhonice.pdf",1990,literature,Czech,scientific publication,Praha,FALSE,FALSE,pdf-scan
+"Tichý,1981-vertebr.-CeskéStredoh.pdf",1981,literature,Czech,inventory research,Ústecký,TRUE,FALSE,"pdf-scan, cf. Vlcek, 1971"
+"Sofron et al., 1978-Starý rybník-mapy.pdf",1978,AOPK-data,Czech,inventory research,Plzenský,TRUE,FALSE,scan-map
+"Machar, 2009-ornitoc.luk-Litov.Pomoraví.pdf",2009,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Pokorný,1989-Birds-Prague.pdf",1989,literature,English,scientific publication,Praha,FALSE,FALSE,pdf-scan
+"Tichý,1985-obratlovci lesa u Peruce.pdf",1985,literature,Czech,scientific publication,Ústecký,TRUE,FALSE,pdf-scan
+"Pokorný,1990-ornitocenosy-Praha.pdf",1990,literature,Czech,scientific publication,Praha,FALSE,FALSE,pdf-scan
+"Martiško et al.,1995-Aves-Podyjí.pdf",1995,literature,Czech,scientific publication-atlas,Jihomoravský,TRUE,FALSE,"pdf-scan, atlas data"
+"Tichý,1992-ptactvo-Louny.pdf",1992,literature,Czech,scientific publication,Ústecký,FALSE,FALSE,pdf-scan
+"Pykal,1991-ptáci-lesní spol.JZCechy.pdf",1991,literature,Czech,scientific publication,Jihoceský,TRUE,FALSE,pdf-scan
+"Vavrík, 2007-ornito-pruzkum PR Bridlicná.pdf",2007,literature,Czech,scientific publication,Olomoucký,TRUE,FALSE,pdf
+"Vlcek,1974-vertebr.CesStredoh.pdf",1974,literature,Czech,inventory research,Ústecký,TRUE,FALSE,pdf-scan
+"Repa,1979-ptactvo samoty .pdf",1979,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf-scan
+"Vlcek,1974-vertebr.CesStredoh2.pdf",1974,literature,Czech,inventory research,Ústecký,TRUE,FALSE,pdf-scan
+"Repa,1980a-ptací synuzie-Primda.pdf",1980,literature,Czech,scientific publication,Plzenský,TRUE,FALSE,pdf-scan
+"Repa,1980b-vesniceCeský les.pdf",1980,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf-scan
+"Vlcek,1975-vertebr.CesStredoh.pdf",1975,literature,Czech,inventory research,Ústecký,TRUE,FALSE,pdf-scan
+"Repa,1981-ptactvo lesu Tach.brázdy.pdf",1981,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,"pdf-scan, cf. Repa, 2018!"
+"Zasadil,2001-hrázeTrebonsko.pdf",2001,literature,Czech,scientific publication,Jihoceský,TRUE,FALSE,pdf
+"Repa,1984-bird synuzia Ceský les.pdf",1984,literature,English,scientific publication,Plzenský,TRUE,FALSE,pdf-scan
+"Repa,1986-ptací synuzie-parky.pdf",1986,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf-scan
+"Repa,1994-složení ptací synuzie-Tachov.pdf",1994,literature,Czech,scientific publication,Plzenský,FALSE,FALSE,pdf-scan

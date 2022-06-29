@@ -1,0 +1,53 @@
+﻿Numeric code,Country name,Official state name 1,Official state name 2,Alpha-2 code,Alpha-3 code,Continent Code,Subregion,Sovereignty
+248, Åland Islands,Åland,Åland Islands,AX,ALA,EU,Northern Europe,Finland
+8, Albania,The Republic of Albania,"Albania, Republic of",AL,ALB,EU,Southern Europe,UN member state
+20, Andorra,The Principality of Andorra,"Andorra, Principality of",AD,AND,EU,Southern Europe,UN member state
+40, Austria,The Republic of Austria,"Austria, Republic of",AT,AUT,EU,Western Europe,UN member state
+112, Belarus,The Republic of Belarus,"Belarus, Republic of",BY,BLR,EU,Eastern Europe,UN member state
+56, Belgium,The Kingdom of Belgium,"Belgium, Kingdom of",BE,BEL,EU,Western Europe,UN member state
+70, Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,EU,Southern Europe,UN member state
+100, Bulgaria,The Republic of Bulgaria,"Bulgaria, Republic of",BG,BGR,EU,Eastern Europe,UN member state
+191, Croatia,The Republic of Croatia,"Croatia, Republic of",HR,HRV,EU,Southern Europe,UN member state
+196, Cyprus,The Republic of Cyprus,"Cyprus, Republic of",CY,CYP,EU,Southern Europe,UN member state
+203,Czech Republic,The Czech Republic,Czech Republic,CZ,CZE,EU,Eastern Europe,UN member state
+208, Denmark,The Kingdom of Denmark,"Denmark, Kingdom of",DK,DNK,EU,Northern Europe,UN member state
+233, Estonia,The Republic of Estonia,"Estonia, Republic of",EE,EST,EU,Northern Europe,UN member state
+234, Faroe Islands,The Faroe Islands,Faroe Islands,FO,FRO,EU,Northern Europe,Denmark
+246, Finland,The Republic of Finland,"Finland, Republic of",FI,FIN,EU,Northern Europe,UN member state
+250, France,The French Republic,"France, French Republic",FR,FRA,EU,Western Europe,UN member state
+276, Germany,The Federal Republic of Germany,"Germany, Federal Republic of",DE,DEU,EU,Western Europe,UN member state
+292, Gibraltar,Gibraltar,Gibraltar,GI,GIB,EU,Southern Europe,United Kingdom
+300, Greece,The Hellenic Republic,"Greece, Hellenic Republic",GR,GRC,EU,Southern Europe,UN member state
+831, Guernsey,The Bailiwick of Guernsey,"Guernsey, Bailiwick of",GG,GGY,EU,Northern Europe,British Crown
+336,Vatican,The Holy See,Holy See (Vatican City State),VA,VAT,EU,Southern Europe,UN member state
+348, Hungary,Hungary,"Hungary, Republic of",HU,HUN,EU,Eastern Europe,UN member state
+352, Iceland,Iceland,"Iceland, Republic of",IS,ISL,EU,Northern Europe,UN member state
+372, Ireland,Ireland,Ireland,IE,IRL,EU,Northern Europe,UN member state
+833, Isle of Man,The Isle of Man,Isle of Man,IM,IMN,EU,Northern Europe,British Crown
+380, Italy,The Italian Republic,"Italy, Italian Republic",IT,ITA,EU,Southern Europe,UN member state
+832, Jersey,The Bailiwick of Jersey,"Jersey, Bailiwick of",JE,JEY,EU,Northern Europe,British Crown
+428, Latvia,The Republic of Latvia,"Latvia, Republic of",LV,LVA,EU,Northern Europe,UN member state
+438, Liechtenstein,The Principality of Liechtenstein,"Liechtenstein, Principality of",LI,LIE,EU,Western Europe,UN member state
+440, Lithuania,The Republic of Lithuania,"Lithuania, Republic of",LT,LTU,EU,Northern Europe,UN member state
+442, Luxembourg,The Grand Duchy of Luxembourg,"Luxembourg, Grand Duchy of",LU,LUX,EU,Western Europe,UN member state
+470, Malta,The Republic of Malta,"Malta, Republic of",MT,MLT,EU,Southern Europe,UN member state
+498, Moldova,The Republic of Moldova,"Moldova, Republic of",MD,MDA,EU,Eastern Europe,UN member state
+492, Monaco,The Principality of Monaco,"Monaco, Principality of",MC,MCO,EU,Western Europe,UN member state
+499, Montenegro,Montenegro,Montenegro,ME,MNE,EU,Southern Europe,UN member state
+528, Netherlands,The Kingdom of the Netherlands,"Netherlands, Kingdom of the",NL,NLD,EU,Western Europe,UN member state
+807, North Macedonia,The Republic of North Macedonia,"North Macedonia, Republic of",MK,MKD,EU,Southern Europe,UN member state
+578, Norway,The Kingdom of Norway,"Norway, Kingdom of",NO,NOR,EU,Northern Europe,UN member state
+616, Poland,The Republic of Poland,"Poland, Republic of",PL,POL,EU,Eastern Europe,UN member state
+620, Portugal,The Portuguese Republic,"Portugal, Portuguese Republic",PT,PRT,EU,Southern Europe,UN member state
+642, Romania,Romania,Romania,RO,ROU,EU,Eastern Europe,UN member state
+643, Russia,The Russian Federation,Russian Federation,RU,RUS,EU,Eastern Europe,UN member state
+674, San Marino,The Republic of San Marino,"San Marino, Republic of",SM,SMR,EU,Southern Europe,UN member state
+688, Serbia,The Republic of Serbia,"Serbia, Republic of",RS,SRB,EU,Southern Europe,UN member state
+703, Slovakia,The Slovak Republic,Slovakia (Slovak Republic),SK,SVK,EU,Eastern Europe,UN member state
+705, Slovenia,The Republic of Slovenia,"Slovenia, Republic of",SI,SVN,EU,Southern Europe,UN member state
+724, Spain,The Kingdom of Spain,"Spain, Kingdom of",ES,ESP,EU,Southern Europe,UN member state
+744, Svalbard,Svalbard and Jan Mayen,Svalbard & Jan Mayen Islands,SJ,SJM,EU,Northern Europe,Norway
+752, Sweden,The Kingdom of Sweden,"Sweden, Kingdom of",SE,SWE,EU,Northern Europe,UN member state
+756, Switzerland,The Swiss Confederation,"Switzerland, Swiss Confederation",CH,CHE,EU,Western Europe,UN member state
+804, Ukraine,Ukraine,Ukraine,UA,UKR,EU,Eastern Europe,UN member state
+826, United Kingdom,The United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain & Northern Ireland,GB,GBR,EU,Northern Europe,UN member state
